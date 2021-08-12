@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+}
+header{
+  background: red;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  color: white;
+}
+main{
+  background: blue;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  color: white;
+}
+footer{
+  background: black;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  color: white;
+}

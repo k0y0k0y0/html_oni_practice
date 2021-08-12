@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+}
+.oya{
+  background: black;
+  height: 500px;
+  width: 500px;
+  position: relative;
+}
+div span{
+  background: red;
+  height: 100px;
+  width: 100px;
+  display: block;
+  position: absolute;
+}
+.ko1{
+  top: 50px;
+  left: 50px;
+}
+.ko2{
+  top: 350px;
+  left: 50px;
+}
+.ko3{
+  top: 50px;
+  left: 350px;
+}
+.ko4{
+  top: 350px;
+  left: 350px;
+}

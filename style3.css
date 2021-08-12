@@ -1,0 +1,41 @@
+body{
+  margin: 0;
+}
+#header{
+  background: red;
+  color: white;
+  height: 80px;
+  width: 980px;
+  text-align: center;
+  margin: 0 auto;
+}
+#main-wrap{
+  width: 980px;
+  height: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#footer{
+  background: black;
+  color: white;
+  height: 80px;
+  width: 980px;
+  text-align: center;
+  margin: 0 auto;
+}
+.main{
+  background: blue;
+  color: white;
+  text-align: center;
+  height: 500px;
+  width: 680px;
+  float: left;
+}
+.slider{
+  background: green;
+  color: white;
+  text-align: center;
+  height: 500px;
+  width: 300px;
+  float: left;
+}

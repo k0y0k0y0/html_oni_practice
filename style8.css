@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+}
+.oya{
+  height: 200px;
+  width: 500px;
+  background: black;
+  overflow: hidden;
+}
+.ko{
+  height: 100px;
+  width: 100px;
+  background: red;
+  float: left;
+  margin-right: 10px;
+  position: relative;
+  top: 50px;
+}

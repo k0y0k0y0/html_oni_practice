@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+}
+#header{
+  background: red;
+  height: 80px;
+  width: 980px;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+}
+#main{
+  background: blue;
+  height: 500px;
+  width: 980px;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+}
+#footer{
+  background: black;
+  height: 80px;
+  width: 980px;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+}
